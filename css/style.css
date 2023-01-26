@@ -1,3 +1,15 @@
 .a{
     background-color: blueviolet;
 }
+.img-fluid{
+    width: 150px;
+}
+.d-flex{
+    width: 125px;
+}
+.form-control{
+    border-radius: 20px;
+}
+.navbar{
+    padding-top: 20px;
+}
