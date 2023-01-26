@@ -30,7 +30,28 @@ background-color: #8089FF;
     background-color: #43D79E;
     border-radius: 28px;
     border-color: #43D79E;
+    color: white;
+    font-weight: 600;
 }
 .a4{
     margin-left: -195px;
+}
+.a5{
+    margin-top: -92px;
+    margin-left: 92px;
+
+
+}
+.a6{
+    width: 140px;
+    padding: 8px;
+    padding-left: 15px;
+    background-color: #FF7E75;
+    border-radius: 28px;
+    border-color: #FF7E75;
+    color: white;
+    font-weight: 600;
+}
+.a8{
+    width: 1130px;
 }
