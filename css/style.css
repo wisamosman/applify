@@ -1,15 +1,36 @@
 .a{
-    background-color: blueviolet;
+    background-c
 }
 .img-fluid{
     width: 150px;
 }
 .d-flex{
     width: 125px;
+    
 }
 .form-control{
     border-radius: 20px;
+    color: #B192FF;
 }
 .navbar{
     padding-top: 20px;
+}
+.a1{
+background-color: #8089FF;
+}
+.a2{
+    color: white;
+    font-weight: 700;
+    font-size: 50px;
+}
+.a3{
+    width: 109px;
+    padding: 8px;
+    padding-left: 17px;
+    background-color: #43D79E;
+    border-radius: 28px;
+    border-color: #43D79E;
+}
+.a4{
+    margin-left: -195px;
 }
