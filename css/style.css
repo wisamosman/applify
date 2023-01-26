@@ -53,5 +53,18 @@ background-color: #8089FF;
     font-weight: 600;
 }
 .a8{
-    width: 1130px;
+    width: 900px;
+    margin-left: 170px;
+    margin-top: -75px;
+}
+.a9{
+    background-color: #FCFCFC;
+}
+.a10{
+color: #7C85F8;
+font-weight: 700;
+}
+.a11{
+color: #58677B;
+font-size: 20px;
 }
